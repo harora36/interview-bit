@@ -1,1 +1,1 @@
-# interview-bit
+# Solutions for Interview-bit algorithm problems
